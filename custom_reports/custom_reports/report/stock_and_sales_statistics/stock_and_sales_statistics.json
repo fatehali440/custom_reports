@@ -1,5 +1,5 @@
 {
- "add_total_row": 0,
+ "add_total_row": 1,
  "creation": "2020-01-23 14:37:51.657056",
  "disable_prepared_report": 0,
  "disabled": 0,
@@ -7,7 +7,7 @@
  "doctype": "Report",
  "idx": 0,
  "is_standard": "Yes",
- "modified": "2020-01-23 14:37:57.048834",
+ "modified": "2020-01-27 09:46:44.608884",
  "modified_by": "Administrator",
  "module": "Custom Reports",
  "name": "Stock and Sales statistics",
